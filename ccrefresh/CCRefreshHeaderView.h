@@ -1,1 +1,5 @@
 
+
+@interface CCRefreshHeaderView : UIView
+
+@end
